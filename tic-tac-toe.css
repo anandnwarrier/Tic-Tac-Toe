@@ -1,0 +1,21 @@
+td{
+  font-size: 1cm;
+  text-align: center;
+  font-weight: bold;
+  border:10px solid yeLlow;
+  width: 3cm;
+  height: 3cm;
+  background: white;
+}
+
+body{
+  padding:1cm;
+  background-image: url("tic-tac-toe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron{
+  padding:0.4cm;
+  text-align: center;
+}
